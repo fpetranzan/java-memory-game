@@ -41,10 +41,10 @@ public class Salva implements Serializable{
     public void createSalva(){
     //creazione e modifica dell'interfaccia
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-        JFrame gui_save = new JFrame("Memory Card - SAVE");
+        JFrame gui_save = new JFrame("Memory - SAVE");
             gui_save.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             gui_save.getContentPane().setBackground(new Color(41, 54, 83));
-            gui_save.setSize(new Dimension(450, 140));
+            gui_save.setSize(new Dimension(460, 160));
             gui_save.setLocation(dim.width/2-gui_save.getSize().width/2, dim.height/2-gui_save.getSize().height/2);
             gui_save.setLayout(null);
             gui_save.setResizable(false);
@@ -135,9 +135,9 @@ public class Salva implements Serializable{
         Computer.setExit(true);
     //creazione e modifica dell'interfaccia    
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-        JFrame gui_load = new JFrame("Memory Card - LOAD");
+        JFrame gui_load = new JFrame("Memory - LOAD");
             gui_load.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-            gui_load.setSize(new Dimension(430, 290));
+            gui_load.setSize(new Dimension(430, 350));
             gui_load.setLocation(dim.width/2-gui_load.getSize().width/2, dim.height/2-gui_load.getSize().height/2);
             gui_load.setResizable(false);
             gui_load.setIconImage(Main.icon.getImage());

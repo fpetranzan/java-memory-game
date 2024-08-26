@@ -37,7 +37,7 @@ public class Rules implements Serializable{
 //regole di gioco    
     public Rules(){
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-        JFrame frame = new JFrame("Memory Card - ABOUT");
+        JFrame frame = new JFrame("Memory - RULES");
             frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             frame.setSize(new Dimension(500, 550));
             frame.setResizable(false);

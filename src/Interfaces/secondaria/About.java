@@ -37,7 +37,7 @@ public class About implements Serializable{
     public About(){
     //informazioni sul gioco
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
-        JFrame frame = new JFrame("Memory Card - ABOUT");
+        JFrame frame = new JFrame("Memory - ABOUT");
         JPanel panel = new JPanel();
             frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             frame.setSize(new Dimension(450, 350));

@@ -42,7 +42,7 @@ public class InsertName implements Serializable{
     public static void setInsertName(){
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
     //creazione e modifica dell'interfaccia
-        JFrame gui_name = new JFrame("Memory Card - NAME");
+        JFrame gui_name = new JFrame("Memory - NAME");
             gui_name.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             gui_name.getContentPane().setBackground(new Color(41, 54, 83));
             gui_name.setSize(new Dimension(400, 200));

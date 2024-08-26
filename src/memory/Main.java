@@ -53,7 +53,7 @@ public class Main extends JFrame implements Serializable{
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
         createGame(600, 4);
     //creazione interfaccia
-        JFrame gui_name = new JFrame("Memory Card - NAME");
+        JFrame gui_name = new JFrame("Memory - NAME");
             gui_name.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             gui_name.getContentPane().setBackground(new Color(41, 54, 83));
             gui_name.setSize(new Dimension(400, 200));
@@ -145,7 +145,7 @@ public class Main extends JFrame implements Serializable{
 //creazione dell'interfaccia di gioco    
     public static void createGame(int size, int n_card){
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize(); //dimensione schermo
-        frame = new JFrame("Memory Card");
+        frame = new JFrame("Memory");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(false);
         frame.setPreferredSize(new Dimension(size, size));

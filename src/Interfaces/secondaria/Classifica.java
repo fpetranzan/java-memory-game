@@ -56,7 +56,7 @@ public class Classifica implements Serializable{
     //crea l'interfaccia della classifica
         Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
                 
-        frame = new JFrame("Memory - CLASSIFICA");
+        frame = new JFrame("Memory - RANKING");
             frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             frame.setSize(new Dimension(380, 550));
             frame.setLocation(dim.width/2-frame.getSize().width/2, dim.height/2-frame.getSize().height/2);

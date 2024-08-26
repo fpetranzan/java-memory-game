@@ -19,9 +19,9 @@ Il progetto da me realizzato cerca di replicare questo gioco, cercando di realiz
 
 PREMESSA: i testi all'interno delle immagini saranno in lingua italiana
 
-<img src="https://github.com/user-attachments/assets/eda1aae9-62a3-46b7-b3d4-7f76fa8c4248" alt="Inserisci il Nome" width="200"/>
+<img src="https://github.com/user-attachments/assets/eda1aae9-62a3-46b7-b3d4-7f76fa8c4248" alt="Inserisci il Nome" width="400"/>
 
-![Avvia Partita](https://github.com/user-attachments/assets/99f224f1-aa55-450b-b4c3-1acc2f5484e5)
+<img src="https://github.com/user-attachments/assets/99f224f1-aa55-450b-b4c3-1acc2f5484e5" alt="Avvia Partita" width="400"/>
 
 Tutte le funzionalità disponibili:
 
@@ -49,7 +49,7 @@ Le principali funzionalità di cui voglio spiegare maggiormente sono:
 
 ### Carica Partita
 
-![Carica Partita](https://github.com/user-attachments/assets/c58d8e58-7223-4243-a811-affc769e4f3f)
+<img src="https://github.com/user-attachments/assets/c58d8e58-7223-4243-a811-affc769e4f3f" alt="Carica Partita" width="400"/>
 
 Durante una partita è possibile selezionare la voce “Salva Partita” e fornendo solo un nome per il salvataggio questa verrà memorizzata.
 
@@ -59,7 +59,7 @@ Il salvataggio avviene con scrittura su file, che viene letto e caricato quando 
 
 ### Difficoltà
 
-![Cambia Difficoltà](https://github.com/user-attachments/assets/3a6fba2a-cf0d-4dfd-a068-2add9b321c32)
+<img src="https://github.com/user-attachments/assets/3a6fba2a-cf0d-4dfd-a068-2add9b321c32" alt="Cambia Difficoltà" width="400"/>
 
 Nel menu “Modifica > Difficoltà” è possibile scegliere fra tre diverse opzioni:
 
@@ -71,7 +71,7 @@ A seconda della difficoltà scelta il campo del giocatore verrà modificato most
 
 ### Modalità
 
-![Cambia Modalità](https://github.com/user-attachments/assets/f8b8fe59-ee87-46b4-bd4a-0a3a2a2ffeb6)
+<img src="https://github.com/user-attachments/assets/f8b8fe59-ee87-46b4-bd4a-0a3a2a2ffeb6" alt="Cambia Modalità" width="400"/>
 
 È possibile scegliere fra tre diverse modalità di gioco:
 
@@ -117,7 +117,7 @@ Il tempo a disposizione è rappresentato nel timer presente nella barra delle in
 
 Al termine di questo tempo se il giocatore non avrà girato entrambe le due carte, la prima carta scelta verrà ricoperta e il turno terminerà.
 
-![Turni e Punti](https://github.com/user-attachments/assets/e1f4110c-2d11-462a-804e-1e4d8ef16d06)
+<img src="https://github.com/user-attachments/assets/e1f4110c-2d11-462a-804e-1e4d8ef16d06" alt="Turni e Punti" width="400"/>
 
 Il secondo aspetto riguarda il punteggio (quadrato rosso dell’immagine), quando il giocatore che sta eseguendo il turno trova una coppia gli verranno aggiunti 5 punti al suo punteggio, mentre per ogni coppia sbagliata gli verrà sottratto 1 punto.
 

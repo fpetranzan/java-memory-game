@@ -19,7 +19,7 @@ Il progetto da me realizzato cerca di replicare questo gioco, cercando di realiz
 
 PREMESSA: i testi all'interno delle immagini saranno in lingua italiana
 
-![Inserisci il Nome](https://github.com/fpetranzan/assets/eda1aae9-62a3-46b7-b3d4-7f76fa8c4248)
+<img src="https://github.com/user-attachments/assets/eda1aae9-62a3-46b7-b3d4-7f76fa8c4248" alt="Inserisci il Nome" width="200"/>
 
 ![Avvia Partita](https://github.com/user-attachments/assets/99f224f1-aa55-450b-b4c3-1acc2f5484e5)
 

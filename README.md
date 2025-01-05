@@ -2,7 +2,7 @@
 
 lang [EN]: [en](https://github.com/fpetranzan/java-memory-game/blob/master/README.md) | [it](https://github.com/fpetranzan/java-memory-game/blob/master/README_it.md)
 
-Made during my study period, this is my first most complex and complex project.
+Made during my study period, this is my first most complex project.
 
 Memory is a game in which all cards are placed face down on a surface and two cards are turned face up each turn. The aim of the game is to discover matching pairs of cards.
 
